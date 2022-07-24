@@ -1,0 +1,7 @@
+to run this program, create python virtual environment in your directory (whatever) using [python3 -m venv venv].
+activate the virtual environment (in your current directory after you create venv) [source venv/bin/activate].
+install python library 'pytube' [python3 -m pip install pytube].
+
+after that preparation, run the program [python3 download.py].
+fill in your path of txt file that contain list youtube link video that you want to download (one link per row).
+after the download finished, you can check your video file in your Downloads file.
