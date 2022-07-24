@@ -1,0 +1,10 @@
+ 
+Create a virtual environment for python
+
+python3 -m venv venv
+
+Load the virtual environment
+
+    On Windows Powershell: .\venv\Scripts\activate.ps1
+    On Linux and Git Bash: source venv/bin/activate
+
